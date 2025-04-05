@@ -1,0 +1,22 @@
+{
+  "variant": "professional",
+  "primary": "hsl(271, 91%, 65%)",
+  "appearance": "light",
+  "radius": 0.5,
+  "chart": {
+    "1": "#10b981",
+    "2": "#7c3aed",
+    "3": "#3b82f6",
+    "4": "#f59e0b",
+    "5": "#ef4444"
+  },
+  "sidebar": {
+    "background": "hsl(271, 81%, 47%)",
+    "foreground": "hsl(0, 0%, 100%)",
+    "primary": "hsl(271, 91%, 65%)",
+    "primary-foreground": "hsl(0, 0%, 100%)",
+    "accent": "hsl(0, 0%, 100%, 0.1)",
+    "accent-foreground": "hsl(0, 0%, 100%)",
+    "border": "hsl(271, 91%, 37%)"
+  }
+}
